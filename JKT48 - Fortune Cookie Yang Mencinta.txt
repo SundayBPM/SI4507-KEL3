@@ -10,6 +10,7 @@ Lirik:
 Tiba tiba Natalan
 Tiba tiba Natalan
 Tiba tiba Natalan
+<<<<<<< HEAD
 Shopee COD, 
 Shopee COD 
 Bayar langsung di tampek.
@@ -17,3 +18,10 @@ Bayar langsung di tampek.
  Shopee COD 
 Pasti dapek gratis ongkir. 
 
+=======
+
+Fortune Cookie berbentuk hati
+Nasib lebih baiklah dari hari ini
+Hey, hey, hey!
+Hey, hey, hey!
+>>>>>>> f9dfcd542a3a290576cb02ffa1625317d9d26fb6

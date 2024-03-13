@@ -1,10 +1,18 @@
 Nama Anggota : 
 1. Sunday B. Putera Mandiri 
 2. Ramos Wilfred S
+topi saya bundar
 3. M Ziyan
 4. Tsabita Ratu
+Dalam bersahur ada pahala
 5. M Luthfi
+<<<<<<< HEAD
+Ramadhan tiba, semua bahagia
 6. Nazwa Tazkia
+=======
+6. Nazwa Tazkia
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 
 Lirik:
@@ -14,3 +22,4 @@ Tiba tiba Natalan
 =======
 Ramadhan tiba, semua bahagia
 >>>>>>> 0b9e69776bcee3becfbcc2676c80e2561a19e09b
+>>>>>>> bf5f09baf1e732abbe7e0926a37d13d8671e3f45
