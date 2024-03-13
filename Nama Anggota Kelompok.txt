@@ -6,3 +6,15 @@ topi saya bundar
 4. Tsabita Ratu
 5. M Luthfi
 6. Nazwa Tazkia
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+Lirik:
+Tiba tiba Natalan
+Tiba tiba Natalan
+Tiba tiba Natalan
+=======
+Ramadhan tiba, semua bahagia
+>>>>>>> 0b9e69776bcee3becfbcc2676c80e2561a19e09b
+>>>>>>> bf5f09baf1e732abbe7e0926a37d13d8671e3f45
